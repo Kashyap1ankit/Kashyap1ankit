@@ -5,7 +5,16 @@
 A passionate frontend developer and designer from India
 
 
-[![MIT License](https://img.shields.io/twitter/follow/Ankitka38153827?color=blue&logo=Twitter&logoColor=blue&style=social)](https://twitter.com/Ankitka38153827)
+[![MIT License](
+https://img.shields.io/badge/Twitter-Follow-red)](https://twitter.com/Ankitka38153827)
+
+[![MIT License](https://img.shields.io/badge/instagram-Follow-red)](https://www.instagram.com/ankit_kash_yap/)
+
+
+[![MIT License](https://img.shields.io/badge/LinkedIn-Follow-red)](https://www.linkedin.com/in/ankit-kashyap-8a381a263/)
+
+
+
 
 
 
