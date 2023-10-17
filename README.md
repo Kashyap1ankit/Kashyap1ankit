@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my responsive coding<br><br>🌱 I’m currently learning Bootstrap<br><br>👯 I’m looking to collaborate on any frontend work<br><br>👨‍💻 All of my projects are available at Portfolio<br><br>💬 Ask me about anything related to HTML & CSS,Javascript,Git and Github<br><br>📫 You can reach me at ankitkashyap6202347735@gmail.com<br><br>⚡ In a love triangle with HTML, CSS & Js<br><br>My Learning is keep going and i am keep progressing.
+🔭 I’m currently working on some basic fullstack projects<br><br>🌱 I’m currently learning some backend technologies like middlewares<br><br>👯 I’m looking to collaborate on any fullstack projectsk<br><br>👨‍💻 All of my projects are available as repo on my github account<br><br>💬 Ask me about anything related to fullstack,i will try best to answer it<br><br>📫 You can reach me on my linkdein account<br><br>⚡<br><br>My Learning is keep going and i am keep progressing.
 
 
 ## 🌐 Socials:
