@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some basic fullstack projects<br><br>🌱 I’m currently learning some backend technologies like middlewares<br><br>👯 I’m looking to collaborate on any fullstack projectsk<br><br>👨‍💻 All of my projects are available as repo on my github account<br><br>💬 Ask me about anything related to fullstack,i will try best to answer it<br><br>📫 You can reach me on my linkdein account<br><br>⚡My Learning is keep going and i am keep progressing.
+🔭 I’m currently working on fullstack projects<br><br>🌱 I’m currently learning some backend technologies like middlewares<br><br>👯 I’m looking to collaborate on any fullstack projectsk<br><br>👨‍💻 All of my projects are available as repo on my github account<br><br>💬 Ask me about anything related to fullstack,i will try best to answer it<br><br>📫 You can reach me on my linkdein account<br><br>⚡My Learning is keep going and i am keep progressing.
 
 
 ## 🌐 Socials:
