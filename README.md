@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nextjs projects<br><br>🌱 I’m currently learning websockets and advanced backend topics <br><br>👯 I’m looking to collaborate on any fullstack projects<br><br>👨‍💻 All of my projects are available as repo on my github account<br><br>💬 Ask me about anything related to fullstack,i will try best to answer it<br><br>📫 You can reach me on my linkdein account & email<br><br>⚡My Learning is keep going and i am keep progressing.
+🔭 I’m currently working on app development<br><br>🌱 I’m currently learning websockets and advanced backend topics <br><br>👯 I’m looking to collaborate on any fullstack projects<br><br>👨‍💻 All of my projects are available as repo on my github account<br><br>💬 Ask me about anything related to fullstack,i will try best to answer it<br><br>📫 You can reach me on my linkdein account & email<br><br>⚡My Learning is keep going and i am keep progressing.
 
 
 ## 🌐 Socials:
