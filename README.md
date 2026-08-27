@@ -1,3 +1,5 @@
+![Header](./banner.png)
+
 # Just a developer
 
 ## 🌐 Socials:
